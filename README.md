@@ -23,9 +23,8 @@ Experimental Workflow
 6. Re‑train identical‑setup model; record new RMSE
 7. Generate RMSE‑comparison bar‑chart; save key‑result summary‑text file
  
-Results & Visualisation
-
-https://github.com/Shumaila1987/Cafe-Sales-Robustness-Testing-Project/blob/main/cafe_robust_rmse_chart.png
+## Results & Visualisation
+![RMSE comparison: cafe‑sales robustness test](cafe_robust_rmse_chart.png)
 
 Chart explanation: The left‑hand bar shows near‑zero prediction error on our fully cleaned dataset. The taller right‑hand bar shows increased prediction error after we artificially introduced 15 extreme‑price outlier records to test model robustness. These synthetic outliers do not come from the original raw dataset; we added them deliberately as an experiment.
  

@@ -34,7 +34,7 @@ Chart explanation: The left‑hand bar shows near‑zero prediction error on o
  
 ## Repository Contents
  
-   cafe_sales_robust.py  ‑ single‑file complete analysis script
+   cafe_sales_robust_analysis ‑ single‑file complete analysis script
    dirty_cafe_sales.csv  ‑ original source transaction dataset
    clean_cafe_sales.csv  ‑ saved cleaned numeric‑only baseline dataset
    cafe_robust_rmse_chart.png  ‑ RMSE‑comparison output chart

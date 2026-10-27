@@ -1,0 +1,8 @@
+Cafe‑Sales Robustness Experiment
+Valid numeric‑ready rows: 8544
+Baseline RMSE (clean dataset): 0.00
+RMSE after adding synthetic high‑price outliers: 0.40
+Key observation:
+The model predicts Total Spent almost perfectly on clean valid rows,
+but prediction error increases once artificial extreme‑price entries are introduced.
+This demonstrates how even a simple predictive pipeline can lose accuracy when facing unexpected outlier values in real‑world‑style data.

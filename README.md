@@ -43,7 +43,10 @@ Chart explanation: The left‑hand bar shows near‑zero prediction error on o
    cafe_robust_rmse_chart.png  ‑ RMSE‑comparison output chart
    
    experiment_summary.txt  ‑ saved experiment‑result notes
+
+ ## Dataset Source
  
+ The cleaned transaction file  clean_cafe_sales.csv  used in this experiment is published separately on Kaggle: [https://www.kaggle.com/datasets/shumailazubair/cleaned-cafe-sales-transaction-dataset]. Prepared by filtering non‑numeric bad‑value rows from an original public‑domain cafe‑sales dataset, to create a ready‑to‑use baseline for robustness‑testing regression models. Licensed CC BY‑SA 4.0.
  
 ## Possible Future Extensions
  

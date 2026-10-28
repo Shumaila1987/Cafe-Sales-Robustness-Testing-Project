@@ -51,7 +51,7 @@ Chart explanation: The left‑hand bar shows near‑zero prediction error on o
 ## Possible Future Extensions
  
   Test performance using alternative regression‑model types
-  Introduce different simulated‑defect patterns ‑ missing‑value cases, mixed‑format entries
-  Add simple explainability checks ‑ SHAP‑value analysis ‑ to examine feature‑influence shifts after outliers are added
+  Introduce different simulated‑defect patterns: missing‑value cases, mixed‑format entries.
+  Add simple explainability checks( SHAP‑value analysis) to examine feature‑influence shifts after outliers are added.
   Created by
   ## Shumaila Liaqat
